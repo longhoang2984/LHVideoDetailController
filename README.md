@@ -16,12 +16,35 @@ The view will animate the view just like Youtube mobile app, while tapping on vi
 
 Screenshot
 ------------
-![Demo](https://media.giphy.com/media/MRHV79IVTgFtj6CAX9/200w_d.gif)
+![Demo](http://hoangcuulong.com/wp-content/uploads/2018/11/LHVideoDetail.gif)
 
 
 
 # Usage
 
+## Requirements
+XCode 9+
+
+Swift 4+
+
+## Installation
+
+### Cocoapods
+
+```
+$ pod repo update
+```
+
+And add this to your Podfile:
+
+
+```ruby
+pod 'LHVideoDetailController'
+```
+
+and
+
+`$ pod install`
 
 ## extend this class
 
