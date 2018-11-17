@@ -1,0 +1,22 @@
+{
+  "name": "LHVideoDetailController",
+  "version": "0.1.0",
+  "summary": "A short description of LHVideoDetailController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/longhoang2984/LHVideoDetailController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "longhoang2984": "long.hoang@be.xyz"
+  },
+  "source": {
+    "git": "https://github.com/longhoang2984/LHVideoDetailController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LHVideoDetailController/Classes/**/*"
+}

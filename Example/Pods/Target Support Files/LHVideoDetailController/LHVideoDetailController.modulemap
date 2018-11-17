@@ -1,0 +1,6 @@
+framework module LHVideoDetailController {
+  umbrella header "LHVideoDetailController-umbrella.h"
+
+  export *
+  module * { export * }
+}
