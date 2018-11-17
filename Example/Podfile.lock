@@ -1,5 +1,5 @@
 PODS:
-  - LHVideoDetailController (0.1.0)
+  - LHVideoDetailController (1.0.0)
 
 DEPENDENCIES:
   - LHVideoDetailController (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LHVideoDetailController: 62f23bfffdd2a83bd0aa42a596a898d228865e8b
+  LHVideoDetailController: 127f664141ff4695e9c1a9ae4f4794cd96df5adc
 
-PODFILE CHECKSUM: 8b33fe822d7402cecd441d269faa07fa9b93f860
+PODFILE CHECKSUM: 1714cab639493391d81c8d1e0ddc528383be027d
 
 COCOAPODS: 1.5.3

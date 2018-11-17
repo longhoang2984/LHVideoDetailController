@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0EFE5CD521A0717C0066B858 /* U23VN.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0EFE5CD121A0717C0066B858 /* U23VN.mp4 */; };
+		0EFE5CD621A0717C0066B858 /* YoutubeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EFE5CD221A0717C0066B858 /* YoutubeViewController.swift */; };
+		0EFE5CD721A0717C0066B858 /* FacebookViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EFE5CD321A0717C0066B858 /* FacebookViewController.swift */; };
+		0EFE5CD921A0751D0066B858 /* Facebook.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0EFE5CD821A0751D0066B858 /* Facebook.mp4 */; };
 		4E7AB714A04B9D76EC01684C /* Pods_LHVideoDetailController_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB43FAE3B33ADE5BC4385DB0 /* Pods_LHVideoDetailController_Example.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
@@ -28,6 +32,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0EFE5CD121A0717C0066B858 /* U23VN.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = U23VN.mp4; sourceTree = "<group>"; };
+		0EFE5CD221A0717C0066B858 /* YoutubeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YoutubeViewController.swift; sourceTree = "<group>"; };
+		0EFE5CD321A0717C0066B858 /* FacebookViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacebookViewController.swift; sourceTree = "<group>"; };
+		0EFE5CD821A0751D0066B858 /* Facebook.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Facebook.mp4; sourceTree = "<group>"; };
 		2506D4C275A3B29ACBF01929 /* Pods-LHVideoDetailController_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LHVideoDetailController_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LHVideoDetailController_Example/Pods-LHVideoDetailController_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* LHVideoDetailController_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LHVideoDetailController_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -39,12 +47,12 @@
 		607FACE51AFB9204008FA782 /* LHVideoDetailController_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LHVideoDetailController_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		670D883CF9D3DF6787622116 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		670D883CF9D3DF6787622116 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		7A1D1D83AAD1525C58F9FABF /* Pods-LHVideoDetailController_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LHVideoDetailController_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LHVideoDetailController_Example/Pods-LHVideoDetailController_Example.release.xcconfig"; sourceTree = "<group>"; };
-		991BCFAD27464713239F57FA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		991BCFAD27464713239F57FA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		99F7935AADDDFC5B967E09F4 /* Pods-LHVideoDetailController_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LHVideoDetailController_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LHVideoDetailController_Tests/Pods-LHVideoDetailController_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		AB43FAE3B33ADE5BC4385DB0 /* Pods_LHVideoDetailController_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LHVideoDetailController_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B859E2C1A33A63A8AA18CA51 /* LHVideoDetailController.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LHVideoDetailController.podspec; path = ../LHVideoDetailController.podspec; sourceTree = "<group>"; };
+		B859E2C1A33A63A8AA18CA51 /* LHVideoDetailController.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LHVideoDetailController.podspec; path = ../LHVideoDetailController.podspec; sourceTree = "<group>"; };
 		E245D99AB573221C697AE04C /* Pods_LHVideoDetailController_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LHVideoDetailController_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4EEAC1F7A3C325B60687B4D /* Pods-LHVideoDetailController_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LHVideoDetailController_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LHVideoDetailController_Tests/Pods-LHVideoDetailController_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -69,6 +77,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0EFE5CCE21A0717C0066B858 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				0EFE5CCF21A0717C0066B858 /* videos */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		0EFE5CCF21A0717C0066B858 /* videos */ = {
+			isa = PBXGroup;
+			children = (
+				0EFE5CD821A0751D0066B858 /* Facebook.mp4 */,
+				0EFE5CD121A0717C0066B858 /* U23VN.mp4 */,
+			);
+			path = videos;
+			sourceTree = "<group>";
+		};
 		298C7A47B84A2642DCF39450 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -104,6 +129,9 @@
 		607FACD21AFB9204008FA782 /* Example for LHVideoDetailController */ = {
 			isa = PBXGroup;
 			children = (
+				0EFE5CD321A0717C0066B858 /* FacebookViewController.swift */,
+				0EFE5CCE21A0717C0066B858 /* Sources */,
+				0EFE5CD221A0717C0066B858 /* YoutubeViewController.swift */,
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
@@ -212,10 +240,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = GBRMF3XZ9K;
 						LastSwiftMigration = 0900;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = GBRMF3XZ9K;
 						LastSwiftMigration = 0900;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -246,8 +276,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
+				0EFE5CD921A0751D0066B858 /* Facebook.mp4 in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
+				0EFE5CD521A0717C0066B858 /* U23VN.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,8 +366,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EFE5CD721A0717C0066B858 /* FacebookViewController.swift in Sources */,
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
+				0EFE5CD621A0717C0066B858 /* YoutubeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,6 +515,7 @@
 			baseConfigurationReference = 2506D4C275A3B29ACBF01929 /* Pods-LHVideoDetailController_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GBRMF3XZ9K;
 				INFOPLIST_FILE = LHVideoDetailController/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -496,6 +531,7 @@
 			baseConfigurationReference = 7A1D1D83AAD1525C58F9FABF /* Pods-LHVideoDetailController_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GBRMF3XZ9K;
 				INFOPLIST_FILE = LHVideoDetailController/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -510,6 +546,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F4EEAC1F7A3C325B60687B4D /* Pods-LHVideoDetailController_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = GBRMF3XZ9K;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -532,6 +569,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 99F7935AADDDFC5B967E09F4 /* Pods-LHVideoDetailController_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = GBRMF3XZ9K;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
