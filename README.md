@@ -16,7 +16,7 @@ The view will animate the view just like Youtube mobile app, while tapping on vi
 
 Screenshot
 ------------
-![Demo](https://github.com/longhoang2984/LHVideoDetailController/LHVideoDetail.gif)
+![Demo](https://github.com/longhoang2984/LHVideoDetailController/blob/master/LHVideoDetail.gif)
 
 
 
