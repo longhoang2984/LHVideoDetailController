@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LHVideoDetailController_Example' do
+  pod 'LHVideoDetailController', :path => '../'
+
+  target 'LHVideoDetailController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
